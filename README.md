@@ -59,3 +59,19 @@ Email: sggin1@gmail.com
 Open Source | Free Forever | No Strings Attached
 
 Made for anyone who value simplicity and privacy.
+
+## 🔧 Creating Executables
+
+Want a standalone executable? Easy!
+
+1. **Clone the repo:** `git clone https://github.com/Sggin1/GitGone.git`
+2. **Install PyInstaller:** `pip install pyinstaller`
+3. **Build:** `pyinstaller --onefile GITGone.py`
+4. **Find your exe** in the `dist/` folder
+
+Works on Windows, macOS, and Linux!
+
+
+
+
+
