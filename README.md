@@ -58,4 +58,4 @@ Email: sggin1@gmail.com
 
 Open Source | Free Forever | No Strings Attached
 
-Made for developers who value simplicity and privacy.
+Made for anyone who value simplicity and privacy.
