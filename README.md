@@ -2,7 +2,7 @@ GITGone v1.0 🚀
 
 Simple. Private. No Hassles.
 
-*~ a simple tool with a hint of parody. The name is for everyone who's ever had a "wait… where did my repo go?" moment — a botched force-push, a vanished remote, a merge that ate the afternoon. The joke is the name. The backups are real, local, and can't be taken from you.*
+*~ a simple tool with a hint of parody. The name is for everyone who's ever had a "wait… where did my repo go?" moment — a botched force-push, a vanished remote, a merge that ate the afternoon. The joke is the name. The backups are real — sometimes a quick local copy just makes sense.*
 
 A lightweight Python backup tool that creates timestamped backups of your projects without any Git dependencies or cloud services. Your files stay on your machine, period.
 ✨ Why GITGone?
