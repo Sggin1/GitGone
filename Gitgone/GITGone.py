@@ -1,7 +1,7 @@
 # backup_project.py - Create timestamped backup excluding gitignore items
 # Location: root/backup_project.py - Simple project backup tool
 #
-# GitGone: part parody, part protest — for every "wait, where did my repo go?"
+# GitGone: a simple tool with a hint of parody — for every "wait, where did my repo go?"
 # moment. The joke is the name; the backups are real and stay on your machine.
 #
 # 🚀 QUICK START GUIDE:
